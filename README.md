@@ -1,5 +1,5 @@
 # DSA-Assignment-II
-Assignment-2 Submitted by:- Anamika Singha Scholar Id- 2012183 CSE Sec-B Course code: CS201 National Institute of Technology, Silchar
+Assignment-2 
 
 Questions:- Assignment II CS-201 Data Structures
 
