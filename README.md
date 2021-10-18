@@ -5,7 +5,7 @@ Data Structures,
 
 Department of Computer Science and Engineering,
 
-National Institute of Technology Silchar
+National Institute of Technology ,Silchar
 
 Questions:- Assignment II 
 
